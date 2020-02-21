@@ -1,1 +1,35 @@
-/*comentário
+/*comentário*/
+hmtl,body{
+    margin:0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto' ;
+    background: #F5F5F5;
+}
+#cabe{
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+
+}
+.cabeçalho{
+    
+    background:#00696b ;
+    width: 100%;
+    height: 60px;
+}
+.contGal{
+    width: 80%;
+    margin: 100px auto ;
+    background: rgb(255, 255, 255);
+    height: 1000px;
+
+}
+.contGal img{
+     margin-top: 10px;
+     width: 100%;
+}
+.contGal p{
+    margin: 100px auto auto 20px;
+}
